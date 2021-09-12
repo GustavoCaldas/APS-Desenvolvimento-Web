@@ -1,0 +1,8 @@
+.container{
+    width: 50%;
+    border: 1px solid #000;
+    margin: auto;
+}
+p{
+    text-indent: 30px;
+}
