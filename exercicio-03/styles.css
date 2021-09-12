@@ -1,0 +1,17 @@
+.container{
+    width: 50%;
+    border: 1px solid #000;
+    margin: auto;
+}
+.container-anchor{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
+.container-anchor-regras{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 10px;
+}
