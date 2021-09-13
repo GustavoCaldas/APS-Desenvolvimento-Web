@@ -1,0 +1,28 @@
+p{
+    margin: 0;
+}
+.container{
+    width: 400px;
+    margin: auto;
+    border: 1px solid #000;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+}
+.key{
+    margin-left: 5px;
+    color: blue;
+    font-weight: bold;
+}
+.value{
+    margin-left: 20px;
+}
+.divider{
+    font-weight: bold;
+    background-color: rgb(0, 255, 221);
+    text-align: center;
+    margin: 5px 0px 5px 0px;
+    padding: 0;
+}
