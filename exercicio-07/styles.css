@@ -1,0 +1,12 @@
+.container{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+.lab-form{
+    width: 100px;
+    display: inline-block;
+}
+form div{
+    margin-bottom: 5px;
+}
