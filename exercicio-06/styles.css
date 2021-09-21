@@ -1,5 +1,8 @@
 .container{
     margin: auto;
     display: block;
-    text-align: center;
+    width: 50%;
+}
+.head-form{
+    margin-left: 80px;
 }
