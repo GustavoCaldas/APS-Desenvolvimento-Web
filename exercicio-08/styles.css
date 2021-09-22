@@ -1,0 +1,40 @@
+.container{
+    display: block;
+    margin: auto;
+    width: 700px;
+    font-weight: bold;
+}
+div div{
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(56, 56, 126);
+    color: white;
+}
+table{
+    background-color: rgb(213, 252, 255);
+}
+table th{
+    text-align: left;
+    background-color: rgb(51, 241, 255);
+}
+.pos{
+    background-color: rgb(199, 199, 199);
+    text-align: center;
+}
+.city{
+    color: rgb(37, 77, 255);
+}
+.position{
+    width: 60px;
+    text-align: center;
+}
+.cityHeader{
+    width: 200px;
+}
+.populationHeader{
+    width: 100px;
+    text-align: center;
+}
+.pop{
+    text-align: center;
+}
